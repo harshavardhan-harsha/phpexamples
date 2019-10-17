@@ -39,12 +39,6 @@ switch ($grade) {
   echo "You are passed with second class";
   break;
  default:
-  echo "You are failed"; # code...
+  echo "You are failed";
   break;
 }
-
-// if (condition):
-//  # code...
-// else:
-//  # code...
-// endif;
